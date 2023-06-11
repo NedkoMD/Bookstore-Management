@@ -7,11 +7,13 @@ using Bookstore.Classes.Strings;
 
 namespace BookstoreTests
 {
+    // A wrapper interface for the file manager to facilitate mocking.
     public interface IFileManagerWrapper
     {
         T ReadFromJson<T>();
     }
 
+    // A concrete implementation of the IFileManagerWrapper interface.
     public class FileManagerWrapper : IFileManagerWrapper
     {
         private readonly FileManager _fileManager;
@@ -36,7 +38,10 @@ namespace BookstoreTests
         [SetUp]
         public void Setup()
         {
+            // Creates a mock object for the IFileManagerWrapper interface.
             _fileManagerWrapperMock = new Mock<IFileManagerWrapper>();
+
+            // Initializes the SearchBooksService with a FileManager instance and a JSON file path.
             _searchBooksService = new SearchBooksService(new FileManager(Paths.JsonFilePath));
         }
 
@@ -45,6 +50,8 @@ namespace BookstoreTests
         {
             // Arrange
             var bookStoreData = new BookStoreData { Books = null };
+
+            // Sets up the mock object to return the specified bookStoreData when ReadFromJson<BookStoreData> is called.
             _fileManagerWrapperMock.Setup(f => f.ReadFromJson<BookStoreData>()).Returns(bookStoreData);
 
             // Act
@@ -59,6 +66,8 @@ namespace BookstoreTests
         {
             // Arrange
             var bookStoreData = new BookStoreData { Books = new List<Book>() };
+
+            // Sets up the mock object to return the specified bookStoreData when ReadFromJson<BookStoreData> is called.
             _fileManagerWrapperMock.Setup(f => f.ReadFromJson<BookStoreData>()).Returns(bookStoreData);
 
             // Act
