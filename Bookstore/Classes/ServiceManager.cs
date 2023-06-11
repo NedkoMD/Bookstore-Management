@@ -14,17 +14,23 @@ namespace Bookstore.Classes
         private readonly SearchBooksService _searchBooksService;
         private readonly AddNewBookService _addNewBookService;
         private readonly CalculateTotalValueService _calculateTotalValueService;
+        private readonly DiscountsService _discountsService;
+        private readonly SaveService _saveService;
 
         // Initializes a new instance of the ServiceManager class with the provided services.
         public ServiceManager(DisplayBooksService displayBooksService,
                                SearchBooksService searchBooksService,
                                AddNewBookService addNewBookService,
-                               CalculateTotalValueService calculateTotalValueService)
+                               CalculateTotalValueService calculateTotalValueService,
+                               DiscountsService discountsService,
+                               SaveService saveService)
         {
             _displayBooksService = displayBooksService;
             _searchBooksService = searchBooksService;
             _addNewBookService = addNewBookService;
             _calculateTotalValueService = calculateTotalValueService;
+            _discountsService = discountsService;
+            _saveService = saveService;
         }
 
         // Displays the list of books.
@@ -52,15 +58,15 @@ namespace Bookstore.Classes
         }
 
         // Applies discounts to books.
-        public void ApplyDiscounts()
+        public decimal ApplyDiscounts()
         {
-            // Implementation of ApplyDiscounts goes here.
+            return _discountsService.ApplyDiscount();
         }
 
         // Saves the changes made to the book collection.
         public void Save()
         {
-            // Implementation of Save goes here.
+            _saveService.Save();
         }
     }
 }

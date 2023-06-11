@@ -57,10 +57,10 @@ namespace Bookstore.Classes
                             _servicesOutput.CalculateTotalValueOutput();
                             break;
                         case MenuOption.ApplyDiscounts:
-                            _serviceManager.ApplyDiscounts();
+                            _servicesOutput.DiscountOutput();
                             break;
                         case MenuOption.Save:
-                            _serviceManager.Save();
+                            _servicesOutput.SaveOutput();
                             break;
                         default:
                             Console.WriteLine(ErrorMessages.MenuOptionError);

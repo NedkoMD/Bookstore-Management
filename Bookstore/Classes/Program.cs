@@ -25,12 +25,16 @@ namespace Bookstore
             SearchBooksService searchBooksService = new SearchBooksService(fileManager);
             AddNewBookService addNewBookService = new AddNewBookService(bookStoreData, fileManager, books);
             CalculateTotalValueService calculateTotalValueService = new CalculateTotalValueService(books, fileManager);
+            DiscountsService discountsService = new DiscountsService(fileManager);
+            SaveService saveService = new SaveService(fileManager);
 
             // Create instance of the service manager and pass the required services
-            IServiceManager serviceManager = new ServiceManager(displayBooksService, 
-                                                                searchBooksService, 
+            IServiceManager serviceManager = new ServiceManager(displayBooksService,
+                                                                searchBooksService,
                                                                 addNewBookService,
-                                                                calculateTotalValueService);
+                                                                calculateTotalValueService,
+                                                                discountsService,
+                                                                saveService);
 
             // Create instance of the service output and pass the service manager and string builder
             ServiceOutput serviceOutput = new ServiceOutput(serviceManager, stringBuilder);

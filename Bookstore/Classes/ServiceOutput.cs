@@ -1,5 +1,6 @@
 ﻿using Bookstore.Classes.Strings;
 using Bookstore.Interfaces;
+using NUnit.Framework;
 using System;
 using System.Linq;
 using System.Text;
@@ -99,6 +100,20 @@ namespace Bookstore.Classes.ServiceOutputs
         {
             _serviceManager.CalculateTotalValue();
             Console.WriteLine(_serviceManager.CalculateTotalValue());
+        }
+
+        // Applies discounts to books.
+        public void DiscountOutput()
+        {
+            _serviceManager.ApplyDiscounts();
+            Console.WriteLine(SucceedMessages.AppliedDiscounts);
+        }
+
+        // Saves the changes made to the book collection.
+        public void SaveOutput()
+        {
+            _serviceManager.Save();
+            Console.WriteLine(SucceedMessages.SavesChanged);
         }
     }
 }

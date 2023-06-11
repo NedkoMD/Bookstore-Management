@@ -4,7 +4,7 @@
       "Id": 1,
       "Title": "The Great Gatsby",
       "Author": "F. Scott Fitzgerald",
-      "Price": 19.99,
+      "Price": 14.57271000,
       "Quantity": 10,
       "Description": "Classic tale of wealth, love, and tragedy."
     },
@@ -12,7 +12,7 @@
       "Id": 2,
       "Title": "To Kill a Mockingbird",
       "Author": "Harper Lee",
-      "Price": 12.99,
+      "Price": 11.13730125,
       "Quantity": 5,
       "Description": "Innocence and injustice in the American South."
     },
@@ -20,7 +20,7 @@
       "Id": 3,
       "Title": "1984",
       "Author": "George Orwell",
-      "Price": 9.99,
+      "Price": 8.56517625,
       "Quantity": 15,
       "Description": "Dystopian society ruled by Big Brother."
     },
@@ -28,7 +28,7 @@
       "Id": 4,
       "Title": "Pride and Prejudice",
       "Author": "Jane Austen",
-      "Price": 17.99,
+      "Price": 13.84330500,
       "Quantity": 8,
       "Description": "Love, manners, and societal expectations."
     },
@@ -36,7 +36,7 @@
       "Id": 5,
       "Title": "The Catcher in the Rye",
       "Author": "J.D. Salinger",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 12,
       "Description": null
     },
@@ -44,7 +44,7 @@
       "Id": 6,
       "Title": "Moby-Dick",
       "Author": "Herman Melville",
-      "Price": 16.99,
+      "Price": 13.07380500,
       "Quantity": 3,
       "Description": "The hunt for the legendary white whale."
     },
@@ -52,7 +52,7 @@
       "Id": 7,
       "Title": "The Lord of the Rings",
       "Author": "J.R.R. Tolkien",
-      "Price": 30.99,
+      "Price": 20.15124750,
       "Quantity": 20,
       "Description": "Epic fantasy journey to destroy the One Ring."
     },
@@ -60,7 +60,7 @@
       "Id": 8,
       "Title": "Jane Eyre",
       "Author": "Charlotte Brontë",
-      "Price": 13.99,
+      "Price": 11.99467625,
       "Quantity": 6,
       "Description": "Orphaned governess finds love and independence."
     },
@@ -68,7 +68,7 @@
       "Id": 9,
       "Title": "Brave New World",
       "Author": "Aldous Huxley",
-      "Price": 10.99,
+      "Price": 9.42255125,
       "Quantity": 9,
       "Description": "Future society of genetic engineering and control."
     },
@@ -76,7 +76,7 @@
       "Id": 10,
       "Title": "The Odyssey",
       "Author": "Homer",
-      "Price": 18.99,
+      "Price": 13.84371000,
       "Quantity": 4,
       "Description": "Epic tale of Odysseus' journey home from Troy."
     },
@@ -84,7 +84,7 @@
       "Id": 11,
       "Title": "The Hobbit",
       "Author": "J.R.R. Tolkien",
-      "Price": 15.99,
+      "Price": 12.98787750,
       "Quantity": 7,
       "Description": "Bilbo Baggins' unexpected adventure."
     },
@@ -92,7 +92,7 @@
       "Id": 12,
       "Title": "Fahrenheit 451",
       "Author": "Ray Bradbury",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 11,
       "Description": "A world where books are banned and burned."
     },
@@ -100,7 +100,7 @@
       "Id": 13,
       "Title": "The Alchemist",
       "Author": "Paulo Coelho",
-      "Price": 19.99,
+      "Price": 14.57271000,
       "Quantity": 13,
       "Description": "A journey of self-discovery and following dreams."
     },
@@ -108,7 +108,7 @@
       "Id": 14,
       "Title": "The Great Expectations",
       "Author": "Charles Dickens",
-      "Price": 12.99,
+      "Price": 11.13730125,
       "Quantity": 6,
       "Description": null
     },
@@ -116,7 +116,7 @@
       "Id": 15,
       "Title": "The Adventures of Huckleberry Finn",
       "Author": "Mark Twain",
-      "Price": 14.99,
+      "Price": 12.85205125,
       "Quantity": 9,
       "Description": "Huck's journey down the Mississippi River."
     },
@@ -124,7 +124,7 @@
       "Id": 16,
       "Title": "The Stranger",
       "Author": "Albert Camus",
-      "Price": 10.99,
+      "Price": 9.42255125,
       "Quantity": 7,
       "Description": "Existential exploration of human absurdity."
     },
@@ -132,7 +132,7 @@
       "Id": 17,
       "Title": "The Chronicles of Narnia",
       "Author": "C.S. Lewis",
-      "Price": 29.99,
+      "Price": 19.50099750,
       "Quantity": 3,
       "Description": "Children's fantasy series with Christian allegories."
     },
@@ -140,7 +140,7 @@
       "Id": 18,
       "Title": "One Hundred Years of Solitude",
       "Author": "Gabriel García Márquez",
-      "Price": 13.99,
+      "Price": 11.99467625,
       "Quantity": 5,
       "Description": "Family saga blending reality and magical realism."
     },
@@ -148,7 +148,7 @@
       "Id": 19,
       "Title": "Anna Karenina",
       "Author": "Leo Tolstoy",
-      "Price": 27.99,
+      "Price": 19.27111500,
       "Quantity": 10,
       "Description": "Passionate love and tragic consequences."
     },
@@ -156,7 +156,7 @@
       "Id": 20,
       "Title": "The Picture of Dorian Gray",
       "Author": "Oscar Wilde",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 8,
       "Description": "The corruption of a young man's soul."
     },
@@ -164,7 +164,7 @@
       "Id": 21,
       "Title": "The Brothers Karamazov",
       "Author": "Fyodor Dostoevsky",
-      "Price": 14.99,
+      "Price": 12.85205125,
       "Quantity": 6,
       "Description": "Philosophical exploration of faith and morality."
     },
@@ -172,7 +172,7 @@
       "Id": 22,
       "Title": "Crime and Punishment",
       "Author": "Fyodor Dostoevsky",
-      "Price": 25.99,
+      "Price": 17.89411500,
       "Quantity": 9,
       "Description": "Mental anguish and guilt after a crime."
     },
@@ -180,7 +180,7 @@
       "Id": 23,
       "Title": "Lord of the Flies",
       "Author": "William Golding",
-      "Price": 9.99,
+      "Price": 8.56517625,
       "Quantity": 15,
       "Description": "Children stranded on an island turn savage."
     },
@@ -188,7 +188,7 @@
       "Id": 24,
       "Title": "The Divine Comedy",
       "Author": "Dante Alighieri",
-      "Price": 24.99,
+      "Price": 18.21771000,
       "Quantity": 4,
       "Description": "Epic journey through Hell, Purgatory, and Heaven."
     },
@@ -196,7 +196,7 @@
       "Id": 25,
       "Title": "Frankenstein",
       "Author": "Mary Shelley",
-      "Price": 13.99,
+      "Price": 11.99467625,
       "Quantity": 8,
       "Description": "The creation of life and its consequences."
     },
@@ -204,7 +204,7 @@
       "Id": 26,
       "Title": "The Grapes of Wrath",
       "Author": "John Steinbeck",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 12,
       "Description": "The struggles of Depression-era migrant workers."
     },
@@ -212,7 +212,7 @@
       "Id": 27,
       "Title": "A Tale of Two Cities",
       "Author": "Charles Dickens",
-      "Price": 25.01,
+      "Price": 17.21938500,
       "Quantity": 6,
       "Description": "Love and sacrifice during the French Revolution."
     },
@@ -220,7 +220,7 @@
       "Id": 28,
       "Title": "Slaughterhouse-Five",
       "Author": "Kurt Vonnegut",
-      "Price": 10.99,
+      "Price": 9.42255125,
       "Quantity": 9,
       "Description": "A nonlinear account of World War II experiences."
     },
@@ -228,7 +228,7 @@
       "Id": 29,
       "Title": "The Count of Monte Cristo",
       "Author": "Alexandre Dumas",
-      "Price": 28.99,
+      "Price": 19.95961500,
       "Quantity": 4,
       "Description": "A tale of revenge and redemption."
     },
@@ -236,7 +236,7 @@
       "Id": 30,
       "Title": "The Scarlet Letter",
       "Author": "Nathaniel Hawthorne",
-      "Price": 15.99,
+      "Price": 12.98787750,
       "Quantity": 7,
       "Description": "The consequences of adultery and guilt."
     },
@@ -244,7 +244,7 @@
       "Id": 31,
       "Title": "The Iliad",
       "Author": "Homer",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 11,
       "Description": null
     },
@@ -252,7 +252,7 @@
       "Id": 32,
       "Title": "A Farewell to Arms",
       "Author": "Ernest Hemingway",
-      "Price": 9.99,
+      "Price": 8.56517625,
       "Quantity": 13,
       "Description": "Love and loss during World War I."
     },
@@ -260,7 +260,7 @@
       "Id": 33,
       "Title": "The Old Man and the Sea",
       "Author": "Ernest Hemingway",
-      "Price": 12.99,
+      "Price": 11.13730125,
       "Quantity": 6,
       "Description": "An old fisherman's battle with a marlin."
     },
@@ -268,7 +268,7 @@
       "Id": 34,
       "Title": "The Canterbury Tales",
       "Author": "Geoffrey Chaucer",
-      "Price": 14.99,
+      "Price": 12.85205125,
       "Quantity": 9,
       "Description": "Collection of stories told by pilgrims."
     },
@@ -276,7 +276,7 @@
       "Id": 35,
       "Title": "Beloved",
       "Author": "Toni Morrison",
-      "Price": 10.99,
+      "Price": 9.42255125,
       "Quantity": 7,
       "Description": "Haunted by the memories of slavery."
     },
@@ -284,7 +284,7 @@
       "Id": 36,
       "Title": "Heart of Darkness",
       "Author": "Joseph Conrad",
-      "Price": 29.99,
+      "Price": 19.50099750,
       "Quantity": 3,
       "Description": "Journey up the Congo River and into the human soul."
     },
@@ -292,7 +292,7 @@
       "Id": 37,
       "Title": "The Sun Also Rises",
       "Author": "Ernest Hemingway",
-      "Price": 13.99,
+      "Price": 11.99467625,
       "Quantity": 5,
       "Description": "Expatriates in post-World War I Europe."
     },
@@ -300,7 +300,7 @@
       "Id": 38,
       "Title": "Wuthering Heights",
       "Author": "Emily Brontë",
-      "Price": 17.99,
+      "Price": 13.84330500,
       "Quantity": 10,
       "Description": "Love and revenge on the Yorkshire moors."
     },
@@ -308,7 +308,7 @@
       "Id": 39,
       "Title": "A Clockwork Orange",
       "Author": "Anthony Burgess",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 8,
       "Description": null
     },
@@ -316,7 +316,7 @@
       "Id": 40,
       "Title": "Gone with the Wind",
       "Author": "Margaret Mitchell",
-      "Price": 10.99,
+      "Price": 9.42255125,
       "Quantity": 6,
       "Description": "Love and war during the American Civil War."
     },
@@ -324,7 +324,7 @@
       "Id": 41,
       "Title": "The Sound and the Fury",
       "Author": "William Faulkner",
-      "Price": 12.99,
+      "Price": 11.13730125,
       "Quantity": 9,
       "Description": "The decline of the Compson family in the South."
     },
@@ -332,7 +332,7 @@
       "Id": 42,
       "Title": "Sapiens: A Brief History of Humankind",
       "Author": "Yuval Noah Harari",
-      "Price": 29.99,
+      "Price": 19.50099750,
       "Quantity": 7,
       "Description": null
     },
@@ -340,7 +340,7 @@
       "Id": 43,
       "Title": "The Color Purple",
       "Author": "Alice Walker",
-      "Price": 9.99,
+      "Price": 8.56517625,
       "Quantity": 15,
       "Description": "The life and struggles of African-American women."
     },
@@ -348,7 +348,7 @@
       "Id": 44,
       "Title": "The Metamorphosis",
       "Author": "Franz Kafka",
-      "Price": 16.99,
+      "Price": 13.07380500,
       "Quantity": 4,
       "Description": "Gregor Samsa's transformation into a giant insect."
     },
@@ -356,7 +356,7 @@
       "Id": 45,
       "Title": "The Shining",
       "Author": "Stephen King",
-      "Price": 23.99,
+      "Price": 17.48871000,
       "Quantity": 8,
       "Description": "A family's descent into madness at an isolated hotel."
     },
@@ -364,7 +364,7 @@
       "Id": 46,
       "Title": "Catch-22",
       "Author": "Joseph Heller",
-      "Price": 11.99,
+      "Price": 10.27992625,
       "Quantity": 12,
       "Description": "Satirical portrayal of military bureaucracy."
     },
@@ -372,7 +372,7 @@
       "Id": 47,
       "Title": "A Room of One's Own",
       "Author": "Virginia Woolf",
-      "Price": 14.99,
+      "Price": 12.85205125,
       "Quantity": 6,
       "Description": "Feminist essay on women and literature."
     },
@@ -380,7 +380,7 @@
       "Id": 48,
       "Title": "The Secret Garden",
       "Author": "Frances Hodgson Burnett",
-      "Price": 9.99,
+      "Price": 8.56517625,
       "Quantity": 9,
       "Description": "A magical garden brings healing and growth."
     },
@@ -388,7 +388,7 @@
       "Id": 49,
       "Title": "The Road",
       "Author": "Cormac McCarthy",
-      "Price": 28.99,
+      "Price": 19.95961500,
       "Quantity": 4,
       "Description": "A father and son's journey in a post-apocalyptic world."
     },
@@ -396,7 +396,7 @@
       "Id": 50,
       "Title": "The Adventures of Tom Sawyer",
       "Author": "Mark Twain",
-      "Price": 15.99,
+      "Price": 12.98787750,
       "Quantity": 7,
       "Description": null
     },
@@ -404,7 +404,7 @@
       "Id": 51,
       "Title": "aa",
       "Author": "bb",
-      "Price": 10.0,
+      "Price": 8.5737500,
       "Quantity": 4,
       "Description": "ccc"
     },
@@ -412,7 +412,7 @@
       "Id": 52,
       "Title": "IAA",
       "Author": "John Green",
-      "Price": 30.0,
+      "Price": 19.5075000,
       "Quantity": 40,
       "Description": ""
     },
@@ -420,7 +420,7 @@
       "Id": 53,
       "Title": "George Martin",
       "Author": "George Martin",
-      "Price": 20.0,
+      "Price": 14.5800000,
       "Quantity": 100,
       "Description": ""
     },
@@ -428,7 +428,7 @@
       "Id": 54,
       "Title": "Biography",
       "Author": "Arnold Schwarzeneger",
-      "Price": 50.0,
+      "Price": 30.7062500,
       "Quantity": 50,
       "Description": ""
     },
@@ -436,7 +436,7 @@
       "Id": 55,
       "Title": "Aaaa",
       "Author": "George R. R. Martin",
-      "Price": 50.0,
+      "Price": 30.7062500,
       "Quantity": 20,
       "Description": ""
     },
@@ -444,7 +444,7 @@
       "Id": 56,
       "Title": "asdas",
       "Author": "asdas",
-      "Price": 123.0,
+      "Price": 75.5373750,
       "Quantity": 123,
       "Description": "123"
     },
@@ -452,7 +452,7 @@
       "Id": 57,
       "Title": "asdasdad",
       "Author": "asdasd",
-      "Price": 123.0,
+      "Price": 75.5373750,
       "Quantity": 123,
       "Description": "asdasda"
     },
@@ -460,7 +460,7 @@
       "Id": 58,
       "Title": "Coding book",
       "Author": "Anonymous",
-      "Price": 20.0,
+      "Price": 14.5800000,
       "Quantity": 5,
       "Description": ""
     },
@@ -468,7 +468,7 @@
       "Id": 59,
       "Title": "123",
       "Author": "Someone",
-      "Price": 10.0,
+      "Price": 8.5737500,
       "Quantity": 3,
       "Description": ""
     },
@@ -476,7 +476,7 @@
       "Id": 60,
       "Title": "She",
       "Author": "Gregory Johns",
-      "Price": 10.0,
+      "Price": 8.5737500,
       "Quantity": 1,
       "Description": ""
     },
@@ -484,7 +484,7 @@
       "Id": 61,
       "Title": "He",
       "Author": "Jessica Parker",
-      "Price": 20.0,
+      "Price": 14.5800000,
       "Quantity": 2,
       "Description": ""
     }

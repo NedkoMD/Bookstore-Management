@@ -44,7 +44,7 @@ namespace Bookstore.Interfaces
         /// <summary>
         /// Applies discounts to the books based on certain criteria.
         /// </summary>
-        void ApplyDiscounts();
+        decimal ApplyDiscounts();
 
         /// <summary>
         /// Saves the changes made to the book collection.

@@ -11,5 +11,6 @@ namespace Bookstore.Classes.Strings
     {
         public const string NewBookAdded = "New book added successfully.";
         public const string AppliedDiscounts = "Discounts applied successfully.";
+        public const string SavesChanged = "Changes saved successfully.";
     }
 }
