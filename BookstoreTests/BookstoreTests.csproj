@@ -74,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CalculateTotalValueServiceTests.cs" />
     <Compile Include="SearchBooksServiceTests.cs" />
+    <Compile Include="AddNewBookServiceTests.cs" />
+    <Compile Include="DiscountsServiceTests.cs" />
+    <Compile Include="SaveServiceTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
