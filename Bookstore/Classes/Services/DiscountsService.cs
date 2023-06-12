@@ -29,7 +29,7 @@ namespace Bookstore.Classes.Services
 
             decimal discount = 0;
 
-            if(books != null || books.Any())
+            if(books != null && books.Any())
             {
                 foreach (var book in books)
                 {

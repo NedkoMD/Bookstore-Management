@@ -16,7 +16,7 @@ namespace Bookstore.Classes.Services
         {
             _fileManager = fileManager;
             var bookstoreData = fileManager.ReadFromJson<BookStoreData>(); // Read the bookstore data from JSON file using the injected file manager
-            _books = bookstoreData.Books; // Set the books list from the loaded bookstore data
+            _books = bookstoreData?.Books ?? new List<Book>();
         }
 
         public void Save()

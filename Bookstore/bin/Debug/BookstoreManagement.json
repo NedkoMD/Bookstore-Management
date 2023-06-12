@@ -487,6 +487,14 @@
       "Price": 14.5800000,
       "Quantity": 2,
       "Description": ""
+    },
+    {
+      "Id": 62,
+      "Title": "The story of an elephant",
+      "Author": "John Johnson",
+      "Price": 20.0,
+      "Quantity": 1,
+      "Description": ""
     }
   ]
 }
